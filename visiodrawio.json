@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/skhell/visio-to-drawio/releases/download/v0.1.0/visiodrawio_0.1.0_windows_amd64.zip",
+            "bin": [
+                "visiodrawio.exe"
+            ],
+            "hash": "27e1e49b6bd29acdd722a0ca2065537f4516870c675e581ec0f3a5e2b3dca2cb"
+        },
+        "arm64": {
+            "url": "https://github.com/skhell/visio-to-drawio/releases/download/v0.1.0/visiodrawio_0.1.0_windows_arm64.zip",
+            "bin": [
+                "visiodrawio.exe"
+            ],
+            "hash": "5dac5774e32a7763644d8324fd63ade636bd6243d22e99a77cca74d5151d4e6a"
+        }
+    },
+    "homepage": "https://github.com/skhell/visio-to-drawio",
+    "license": "MIT",
+    "description": "Convert Microsoft Visio .vsdx and .vstx diagrams to editable draw.io files, locally via CLI or via an MCP server and a skill."
+}
