@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/skhell/visio-to-drawio/releases/download/v0.1.0/visiodrawio_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/skhell/visio-to-drawio/releases/download/v0.1.1/visiodrawio_0.1.1_windows_amd64.zip",
             "bin": [
                 "visiodrawio.exe"
             ],
-            "hash": "27e1e49b6bd29acdd722a0ca2065537f4516870c675e581ec0f3a5e2b3dca2cb"
+            "hash": "d5659e6298225b642941b0c8a1a2fcdd429f50e94be52c4e65ecb1f7699b11f8"
         },
         "arm64": {
-            "url": "https://github.com/skhell/visio-to-drawio/releases/download/v0.1.0/visiodrawio_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/skhell/visio-to-drawio/releases/download/v0.1.1/visiodrawio_0.1.1_windows_arm64.zip",
             "bin": [
                 "visiodrawio.exe"
             ],
-            "hash": "5dac5774e32a7763644d8324fd63ade636bd6243d22e99a77cca74d5151d4e6a"
+            "hash": "a447ee0ab93e2e303b65086ee4b0e057d5f73748e1bf045c555f6b6b526ab53d"
         }
     },
     "homepage": "https://github.com/skhell/visio-to-drawio",
